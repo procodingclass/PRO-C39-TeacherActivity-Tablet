@@ -5,6 +5,8 @@ class Form {
     this.greetings = createElement("h2");
   }
   display() {
+
+    
      
   }
   
